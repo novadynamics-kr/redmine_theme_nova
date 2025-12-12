@@ -1,66 +1,69 @@
+/* update : 2025-12-12 09:40 */
+
 /* Redmine 기본 CSS 파일 */
-@import url("/assets/application-e76b33d7.css"); 
+@import url("../../../stylesheets/application.css"); 
+
 
 @font-face {
     font-family: 's-core-dream-thin';
-    src: url('/assets/theme/nova/scdream1-5f635192.woff2') format('woff2'),
-         url('/assets/theme/nova/scdream1-97d1c078.woff') format('woff');
+    src: url('../fonts/scdream1.woff2') format('woff2'),
+         url('../fonts/scdream1.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 's-core-dream-extralight';
-    src: url('/assets/theme/nova/scdream2-fa110332.woff2') format('woff2'),
-         url('/assets/theme/nova/scdream2-e2f14d33.woff') format('woff');
+    src: url('../fonts/scdream2.woff2') format('woff2'),
+         url('../fonts/scdream2.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 's-core-dream-light';
-    src: url('/assets/theme/nova/scdream3-53cfa3fd.woff2') format('woff2'),
-         url('/assets/theme/nova/scdream3-f25f342a.woff') format('woff');
+    src: url('../fonts/scdream3.woff2') format('woff2'),
+         url('../fonts/scdream3.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 's-core-dream-regular';
-    src: url('/assets/theme/nova/scdream4-95c2aa00.woff2') format('woff2'),
-         url('/assets/theme/nova/scdream4-d37422ce.woff') format('woff');
+    src: url('../fonts/scdream4.woff2') format('woff2'),
+         url('../fonts/scdream4.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 's-core-dream-medium';
-    src: url('/assets/theme/nova/scdream5-aae8f899.woff2') format('woff2'),
-         url('/assets/theme/nova/scdream5-69d7c89b.woff') format('woff');
+    src: url('../fonts/scdream5.woff2') format('woff2'),
+         url('../fonts/scdream5.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 's-core-dream-bold';
-    src: url('/assets/theme/nova/scdream6-a69c0c1b.woff2') format('woff2'),
-         url('/assets/theme/nova/scdream6-0739710d.woff') format('woff');
+    src: url('../fonts/scdream6.woff2') format('woff2'),
+         url('../fonts/scdream6.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 's-core-dream-extrabold';
-    src: url('/assets/theme/nova/scdream7-7f99a005.woff2') format('woff2'),
-         url('/assets/theme/nova/scdream7-3df64964.woff') format('woff');
+    src: url('../fonts/scdream7.woff2') format('woff2'),
+         url('../fonts/scdream7.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 's-core-dream-heavy';
-    src: url('/assets/theme/nova/scdream8-acfd404d.woff2') format('woff2'),
-         url('/assets/theme/nova/scdream8-7899844d.woff') format('woff');
+    src: url('../fonts/scdream8.woff2') format('woff2'),
+         url('../fonts/scdream8.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 's-core-dream-black';
-    src: url('/assets/theme/nova/scdream9-8360a341.woff2') format('woff2'),
-         url('/assets/theme/nova/scdream9-2b3b8627.woff') format('woff');
+    src: url('../fonts/scdream9.woff2') format('woff2'),
+         url('../fonts/scdream9.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
